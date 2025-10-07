@@ -1,0 +1,29 @@
+2025-10-06 12:50:48 | INFO     | logger.py:25 | Logger initialized successfully!
+2025-10-06 13:10:40 | INFO     | logger.py:25 | Logger initialized successfully!
+2025-10-06 13:10:47 | INFO     | main.py:31 | Output File path outputs/refined_c5f4e651-aa80-40f1-9ce7-2341054c5bed_walmart_content_refiner_input.csv
+2025-10-06 13:10:47 | INFO     | main.py:37 | Starting processing CSV
+2025-10-06 13:10:47 | INFO     | utils.py:7 | Reading CSV
+2025-10-06 13:10:47 | INFO     | chains.py:15 | Calling OpenAI chain
+2025-10-06 13:11:37 | INFO     | chains.py:26 | LLM chain completed successfully
+2025-10-06 13:11:37 | INFO     | rules.py:8 | checking for violationss. 
+2025-10-06 13:11:37 | INFO     | chains.py:15 | Calling OpenAI chain
+2025-10-06 13:12:36 | INFO     | chains.py:26 | LLM chain completed successfully
+2025-10-06 13:12:36 | INFO     | rules.py:8 | checking for violationss. 
+2025-10-06 13:12:36 | INFO     | chains.py:15 | Calling OpenAI chain
+2025-10-06 13:13:23 | INFO     | chains.py:26 | LLM chain completed successfully
+2025-10-06 13:13:23 | INFO     | rules.py:8 | checking for violationss. 
+2025-10-06 13:13:23 | INFO     | chains.py:15 | Calling OpenAI chain
+2025-10-06 13:15:15 | INFO     | chains.py:26 | LLM chain completed successfully
+2025-10-06 13:15:15 | INFO     | rules.py:8 | checking for violationss. 
+2025-10-06 13:15:15 | INFO     | chains.py:15 | Calling OpenAI chain
+2025-10-06 13:16:05 | INFO     | chains.py:26 | LLM chain completed successfully
+2025-10-06 13:16:05 | INFO     | rules.py:8 | checking for violationss. 
+2025-10-06 13:16:05 | INFO     | chains.py:15 | Calling OpenAI chain
+2025-10-06 13:16:46 | INFO     | chains.py:26 | LLM chain completed successfully
+2025-10-06 13:16:46 | INFO     | rules.py:8 | checking for violationss. 
+2025-10-06 13:16:46 | INFO     | chains.py:15 | Calling OpenAI chain
+2025-10-06 13:18:01 | INFO     | chains.py:26 | LLM chain completed successfully
+2025-10-06 13:18:01 | INFO     | rules.py:8 | checking for violationss. 
+2025-10-06 13:18:01 | INFO     | chains.py:15 | Calling OpenAI chain
+2025-10-06 13:18:40 | INFO     | chains.py:26 | LLM chain completed successfully
+2025-10-06 13:18:40 | INFO     | rules.py:8 | checking for violationss. 
