@@ -13,14 +13,12 @@ It follows all of Walmart’s rules—no banned words, keeps bullet points short
 
 This project is built using **FastAPI** for its lightweight and fast performance, with **LangChain** for interacting with GPT, and **OpenAI** as the primary model.
 
----
 
 ### Prerequisites
 
 * Python 3.10 or higher
 * **UV** package (For package manager)
 
----
 
 ### Setup Instructions
 
@@ -49,15 +47,12 @@ This project is built using **FastAPI** for its lightweight and fast performance
    pip install -r requirements.txt
    ```
 
----
-
 ### FastAPI Endpoints
 
 * **Endpoint:** `/refine`
 
   This endpoint handles the product content refinement process.
 
----
 
 ### Testing the API
 
