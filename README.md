@@ -9,10 +9,6 @@ This project makes it super easy to create product listings for Walmart. It take
 
 It follows all of Walmart’s rules—no banned words, keeps bullet points short (≤85 chars), and makes sure the keywords are spot on. Plus, any violations are logged in the output CSV so you can easily fix them. Super simple and saves time!
 
-Sure! Here's how you can write the README section with code structure:
-
----
-
 ### Project Overview
 
 This project is built using **FastAPI** for its lightweight and fast performance, with **LangChain** for interacting with GPT, and **OpenAI** as the primary model.
@@ -31,8 +27,8 @@ This project is built using **FastAPI** for its lightweight and fast performance
 1. **Clone the repository**:
 
    ```bash
-   git clone <repo_url>
-   cd <repo_name>
+   git clone https://github.com/sahilsnghai/Walmart-Refine
+   cd Walmart-Refine
    ```
 
 2. **Create a virtual environment**:
