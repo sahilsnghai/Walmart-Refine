@@ -3,7 +3,7 @@
 This project makes it super easy to create product listings for Walmart. It takes a CSV with brand, product type, attributes, and current details, and automatically generates:
 
 * Walmart-safe title
-* HTML key features (<ul><li>)
+* HTML key features (#< ul >< li >)
 * Product description (120-160 words)
 * Meta title (≤70 characters) & meta description (≤160 characters)
 
