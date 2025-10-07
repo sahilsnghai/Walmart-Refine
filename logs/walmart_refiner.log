@@ -27,3 +27,4 @@
 2025-10-06 13:18:01 | INFO     | chains.py:15 | Calling OpenAI chain
 2025-10-06 13:18:40 | INFO     | chains.py:26 | LLM chain completed successfully
 2025-10-06 13:18:40 | INFO     | rules.py:8 | checking for violationss. 
+2025-10-07 11:27:10 | INFO     | logger.py:25 | Logger initialized successfully!

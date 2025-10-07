@@ -47,6 +47,14 @@ This project is built using **FastAPI** for its lightweight and fast performance
    pip install -r requirements.txt
    ```
 
+5. **Export or Setup .env**:
+
+    Export or setup and load the env file with OpenAI API key
+
+   ```bash
+   export OPENAI_API_KEY=
+   ```
+
 ### FastAPI Endpoints
 
 * **Endpoint:** `/refine`
